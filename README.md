@@ -119,6 +119,6 @@ C:\Users\Mohamed\Desktop\Instagram>python3 instagram.py Sami09.1 pass.lst -m 0
 [-] Exists: True
 
 [!] Password Found
-[+] Username: Sami09.1
+[+] Username: Sami09.y
 [+] Password: Sami123
 ```
